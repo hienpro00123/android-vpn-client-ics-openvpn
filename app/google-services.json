@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "968343444672",
+    "project_id": "vpn-free-4cd26",
+    "storage_bucket": "vpn-free-4cd26.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:968343444672:android:070c1c5098491b1f5a6125",
+        "android_client_info": {
+          "package_name": "com.bull.vpn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "968343444672-7qgdoel2k8v6f1eaj9sndademda65phh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTDVJQrFSyGaiO48OyJkecwrx5xnSogc8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "968343444672-7qgdoel2k8v6f1eaj9sndademda65phh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-5054853472906512~8218274012"
+    }
+  ],
+  "configuration_version": "1"
+}
